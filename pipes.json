@@ -1,0 +1,20 @@
+[
+  {
+    "name": "PipeA",
+    "length": 100.0,
+    "diameter": 25.0,
+    "status": "ok"
+  },
+  {
+    "name": "PipeB",
+    "length": 150.5,
+    "diameter": 30.0,
+    "status": "damaged"
+  },
+  {
+    "name": "PipeC",
+    "length": 90.0,
+    "diameter": 20.0,
+    "status": "needs_repair"
+  }
+]
